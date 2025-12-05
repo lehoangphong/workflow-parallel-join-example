@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jithin1987/workflow-parallel-join-example#readme",
   "devDependencies": {
-    "mocha": "^6.0.2"
+    "mocha": "^6.2.3"
   }
 }
